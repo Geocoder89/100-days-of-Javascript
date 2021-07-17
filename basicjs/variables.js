@@ -122,4 +122,3 @@ alert(typeof (10n))
 alert(typeof `foo`)
 
 
-
